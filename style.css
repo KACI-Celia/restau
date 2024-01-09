@@ -1,0 +1,31 @@
+/* 
+*{
+    margin: 0;
+    padding:0;
+}
+ */
+
+header{
+    background-color: darkgoldenrod;}
+
+menu{
+    display: inline;
+    text-decoration: none;
+}
+
+.img_restau{
+    margin-top: 10;
+    margin-left: 20;
+    margin-right: 20;
+}
+h1{
+    text-decoration: solid;
+    text-shadow: 5px;
+    color: black;
+}
+
+
+.img-pizza{
+    width: 300 px;
+    height: 200 vh;
+}
